@@ -67,6 +67,7 @@ Congratulations! you have now contributed to a shared collaborative repo!
 
 Can you fix your first **conflict**?
 
+An example edit from a different account here
 
 
 
